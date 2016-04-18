@@ -15,6 +15,8 @@ https://github.com/ElixirUK/ckanext-tess/tree/master/ckanext/tess/public
 
 We're using the Cytoscape JS package (unless someone has any better ideas).
 
+sample_flowcharts_for_biotools.zip includes examples of flowcharts in graphviz, used by Jacques van-Helden for training.  Would be nice to have something like this for navigation in bio.tools (or at least more inspiration).
+
 ## Plan of Work 
 
 a) Bring cytoscape version up to current stable version
